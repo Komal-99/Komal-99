@@ -25,11 +25,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-komalgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komal-gupta-1795b4181/)](https://www.linkedin.com/in/komal-gupta-1795b4181)
 [![Gmail Badge](https://img.shields.io/badge/-komalgupta991000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:komalgupta991000@gmail.com)](mailto:komalgupta991000@gmail.com)
 
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/Komal-99/Komal-99/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 
 <center>
 <h2 align="center">Git Hub Stats</h2>
