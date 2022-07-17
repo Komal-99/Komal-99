@@ -1,12 +1,12 @@
  # Hi there 🤗 
 
 
-<p><i> I'm Komal a 2nd year B.Tech. CSE student at The Northcap University. I'm a Tech Enthusiast and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> Hi, Thanks for landing here I am Komal Guota a B.Tech. CSE student at The Northcap University. I'm a Tech Enthusiast and an Open Source Contributer. </i></p>
 <img src="https://user-images.githubusercontent.com/74819092/118170606-e73acc00-b447-11eb-8ef4-0ebbab5bc7d7.png"align="right" height=38% width=38%>
 
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>web devlopment</code></li>
-<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>Python</code>, <code>Open Source</code>, <code>C</code></li>, <code>Java</code></li>
+<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>Python</code>, <code>Open Source</code>, <code>Machine Learning</code></li>, <code>Java</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="mailto:komalgupta991000@gmail.com">komalgupta991000@gmail.com</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>She</code>/<code>Her</code></li>
 <li> ⚡ Fun fact about me: I love painting and watching horror movies👻</li></ul>
